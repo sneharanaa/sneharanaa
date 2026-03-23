@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sneharanaa
-- 🌱 I’m currently learning BCA...
+- 🌱 Computer Science Student...
 
 
 <!---
